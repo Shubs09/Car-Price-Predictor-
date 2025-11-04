@@ -1,0 +1,33 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# --- Virtual environment ---
+venv/
+.env/
+env/
+.venv/
+
+# --- VS Code ---
+.vscode/
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+
+# --- Jupyter / cache files ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- Data files (optional) ---
+*.csv
+*.xlsx
+
+# --- Build / dist ---
+build/
+dist/
+*.egg-info/
